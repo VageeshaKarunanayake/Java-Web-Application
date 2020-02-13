@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Apr/2018:11:18:27 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:18:29 +0530] "GET /Online_Social_Network/LoginWeb.jsp HTTP/1.1" 200 1830
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:18:29 +0530] "GET /Online_Social_Network/assets/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:18:29 +0530] "GET /Online_Social_Network/assets/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
